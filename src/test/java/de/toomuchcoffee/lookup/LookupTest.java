@@ -1,4 +1,4 @@
-package de.toomuchcoffee.lookup.impl;
+package de.toomuchcoffee.lookup;
 
 import static org.hamcrest.core.Is.is;
 import static org.hamcrest.core.IsNot.not;
